@@ -9,10 +9,10 @@ package test;
  *
  * @author User
  */
-public class SentenciaFor {
+public class SentenciaFor1 {
     
     public static void main (String [] args){
-        
+        //VECTORES1
       /*  int [] vector = new int [100];
         
         int cont = 0;
@@ -25,8 +25,8 @@ public class SentenciaFor {
         
         for (int j = vector.length-1; j >= 0; j--){
            System.out.print(vector[j]+", ");
-      }*/
-      
+      }
+      //VECTORES2
       double [] vector = new double [10];
       
       for (int i = 0; i < vector.length; i++){
@@ -34,7 +34,11 @@ public class SentenciaFor {
           vector[i] = Math.random();
           
           System.out.println(vector[i]+", ");
-      }
+      }*/
+      
+      
+       
     }
+    
     
 }

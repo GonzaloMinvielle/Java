@@ -3,19 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-/**package test;
+package test;
 
 import java.util.Scanner;
 
 
- *
- * @author User
- */
-/* public class BUCLES {
+ 
+ //* @author User
+ 
+public class BUCLES {
     public static void main (String[] args){
         
         Scanner leer = new Scanner(System.in);
-        EJERCICIO 1 BUCLES/
+ /*       EJERCICIO 1 BUCLES/
         int limite = 10;
         
         
@@ -111,7 +111,7 @@ dispositivo lee cadenas enviadas por el usuario. Las cadenas deben llegar con un
 fijo: tienen que ser de un máximo de 5 caracteres de largo, el primer carácter tiene que ser
 X y el último tiene que ser una O.
 Las secuencias leídas que respeten el formato se consideran correctas, la secuencia
-especial “&&&&&” marca el final de los envíos (llamémosla FDE), y toda secuencia distinta
+especial “&&&&&�? marca el final de los envíos (llamémosla FDE), y toda secuencia distinta
 de FDE, que no respete el formato se considera incorrecta.
 Al finalizar el proceso, se imprime un informe indicando la cantidad de lecturas correctas e
 incorrectas recibidas. Para resolver el ejercicio deberá investigar cómo se utilizan las
@@ -184,9 +184,10 @@ siguientes funciones de Java Substring(), Length(), equals().
         // parte inferior 
         for (int i = 0; i < tam; i++){
             System.out.print("*");
-        }
+        }*/
+        
     }
     
   
     
-}*/
+}
